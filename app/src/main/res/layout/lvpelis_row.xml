@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/ivPosterImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:maxHeight="70dp"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/ivPosterImage"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:hint="mi pelicula"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvCriticsScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tvTitle"
+            android:layout_below="@+id/tvTitle"
+            android:hint="33%"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvCriticsScore"
+            android:ellipsize="end"
+            android:hint="01-01-2000"
+            android:maxLines="2"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

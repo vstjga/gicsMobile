@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/usuario1/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-6989651a828cf05e31fda55cb84432583174c652.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-69e96665232877bbe4c2e1588581928b0b0e6333.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/classes-50e178d48efaf8d8cf9c545a6211cd15a75a8272.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-e2fc97c7a656ee60982f6bad1fedecd587581f92.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/okio-1.6.0-c79c14d6f85ad60653f345899b1078050d8baf24.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-1e4b641add0c896b197d28ad9f561d80da7c230c.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/gson-2.3.1-3fa264117edba587e56daa6181d4c8fae0881ae1.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2-df613873248276a81c8d6b2539ec35c6c969a829.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/classes-89dde3532235d47d28714f8a036067d03e1beb4a.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/classes-893c54fadfcbb57cbb76a5f29d9cfd74f4455ce6.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-1eafde8a04f5c217c614d6f93555c4a1f325002a.jar" />
+    </item>
+    <item
+        jar="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/usuario1/AndroidStudioProjects/GicsMobile/app/build/intermediates/pre-dexed/debug/classes-3d748092f6eb01e1b70ef11c55b7823cefb892a9.jar" />
+    </item>
+
+</items>
